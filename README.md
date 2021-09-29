@@ -4,7 +4,6 @@ Var
 
     hora1 : real
     hora2: real
-    nome : caractere
     resultado: real
 
 
